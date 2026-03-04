@@ -19,4 +19,11 @@ https://github.com/Odunayo89/pbmc3k-singlecell-analysis-
 ### 3. PBMC10K Seurat Workflow
 https://github.com/Odunayo89/pbmc10k-singlecell-seurat-  
 - Advanced single-cell workflow  
-- QC → normalization → clustering → markers  
+- QC → normalization → clustering → markers
+
+---
+
+### 4. PBMC3K Scanpy Workflow
+https://github.com/Odunayo89/pbmc3k-single-cell-rnaseq-scanpy-analysis
+- scRNA-seq analysis using Seurat
+- QC → normalization → clustering → markers
