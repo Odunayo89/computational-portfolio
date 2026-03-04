@@ -25,5 +25,5 @@ https://github.com/Odunayo89/pbmc10k-singlecell-seurat-
 
 ### 4. PBMC3K Scanpy Workflow
 https://github.com/Odunayo89/pbmc3k-single-cell-rnaseq-scanpy-analysis
-- scRNA-seq analysis using Seurat
+- scRNA-seq analysis using Scanpy
 - QC → normalization → clustering → markers
