@@ -1,4 +1,4 @@
-# 🧬 Computational Biology Portfolio
+# 🧬 Bioinformatics and computational biology portfolio including RNA-seq and single-cell RNA-seq workflows using DESeq2, Seurat, and Scanpy.
 
 ## Projects
 
