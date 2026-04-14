@@ -27,3 +27,14 @@ https://github.com/Odunayo89/pbmc10k-singlecell-seurat-
 https://github.com/Odunayo89/pbmc3k-single-cell-rnaseq-scanpy-analysis
 - scRNA-seq analysis using Scanpy
 - QC → normalization → clustering → markers
+
+### 5. Benchmarking scRNA-seq Annotation Methods on PBMC 10k
+https://github.com/Odunayo89/Benchmarking-scRNA-seq-Annotation-Methods-on-PBMC-10k
+- QC and filtering
+- Normalization and log transformation
+- PCA and UMAP
+- Leiden clustering
+- Manual marker-based annotation
+- Automated annotation with CellTypist
+- K-means clustering
+- Benchmarking using ARI and silhouette score
