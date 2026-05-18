@@ -1,5 +1,5 @@
 # 🧬 Cloud-Enabled Computational Biology Portfolio
-RNA-seq and single-cell RNA-seq workflows using AWS EC2/S3, DESeq2, Seurat, and Scanpy.
+# RNA-seq and single-cell RNA-seq workflows using AWS EC2/S3, DESeq2, Seurat, and Scanpy.
 
 ## Projects
 
